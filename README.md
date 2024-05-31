@@ -69,9 +69,9 @@
 ---
 
 [website]:
-[instagram]: https://www.instagram.com/valen.code/
+[instagram]:https://www.instagram.com/valen.code/
 [linkedin]:
-[Spotify]: https://open.spotify.com/user/qhaarj7xg1ub1peluie8drmr7?si=642ff18699dd4627
+[Spotify]:https://open.spotify.com/user/qhaarj7xg1ub1peluie8drmr7?si=642ff18699dd4627
 
 
 ----
