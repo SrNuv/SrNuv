@@ -68,13 +68,12 @@
 
 ---
 
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
+[website]:
+[instagram]: https://www.instagram.com/valen.code/
+[linkedin]:
+[Spotify]: https://open.spotify.com/user/qhaarj7xg1ub1peluie8drmr7?si=642ff18699dd4627
 
 
 ----
 Credit: [Bgstatic](https://github.com/Bgstatic)
 
-Last Edited on: 23/09/2020
