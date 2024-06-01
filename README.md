@@ -2,8 +2,7 @@
 <h1 align="center"><b>Hi , I'm Valentin Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2786B1&random=false&width=300&lines=Welcome+To+My+GitHub"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=077DC8&random=false&width=350&lines=Welcome!+!+!;Software+Developer+student%2C;Love+to+learn+AI+tech!+%F0%9F%A4%96" /></p>
 
 <br>
 	
@@ -128,21 +127,6 @@
 </ul>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
 
 ---
 
@@ -150,4 +134,3 @@
 
 Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-Last Edited on: 09/11/2022
