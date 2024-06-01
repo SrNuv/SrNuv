@@ -5,14 +5,15 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2786B1&random=false&width=300&lines=Welcome+To+My+GitHub"/></a>
 </p>
 
-
-
-
-
+<br>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<picture>
+  <source media="(max-width: 767px)" srcset="">
+  <img align="right" alt="" src="./programming.svg" width=300px>
+</picture>
 
 <br>
 
