@@ -1,8 +1,4 @@
 # 👋 Hi, I'm Valentin Romero. 
-
-<img align=right width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
-
-
 👩🏻‍💻  Learning specifically in python and backend, </br>
     along with different frameworks associated with these. </br>
 
