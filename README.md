@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Valentin Romero.
-<img align="right" alt="Coding" width="400px" src="https://github.com/SrNuv/SrNuv/blob/main/icon.gif">
 👩🏻‍💻  Learning specifically in python and backend. </br>
 
 ### 🧰 Languages and Tools
