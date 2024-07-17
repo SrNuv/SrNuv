@@ -23,4 +23,4 @@
 
 ### 📊 Stats
 <!--GitHub stats-->
-![SrNuv GitHub stats](https://github-readme-stats.vercel.app/api?username=SrNuv&theme=shadow_red&show_icons=true)
+![SrNuv GitHub stats](https://github-readme-stats.vercel.app/api?username=SrNuv&theme=dark&show_icons=true)
