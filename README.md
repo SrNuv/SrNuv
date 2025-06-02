@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Valentin Romero.
+# 👋🏻 Hi, I'm Valentin Romero.
 👩🏻‍💻  Learning specifically in python and backend. </br>
 
 ### 🧰 Languages and Tools
